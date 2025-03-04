@@ -39,6 +39,8 @@
 ],
 "dateModified":
 "2025-03-03T22:00:47.327823-05:00",
+"datePublished":
+"2025-03-04T03:04:54.375374+00:00",
 "digest":
 {
 "dandi:dandi-etag":
@@ -88,6 +90,34 @@
 ],
 "path":
 "sub-healthy-simulated-data/sub-healthy-simulated-data_ses-001_ecephys.nwb",
+"publishedBy":
+{
+"endDate":
+"2025-03-04T03:04:54.375374+00:00",
+"id":
+"urn:uuid:05c67b8b-7720-4f44-8ae4-cee5f1e919d3",
+"name":
+"DANDI publish",
+"schemaKey":
+"PublishActivity",
+"startDate":
+"2025-03-04T03:04:54.375374+00:00",
+"wasAssociatedWith":
+[
+{
+"id":
+"urn:uuid:84c92403-f9f5-49d1-97da-fef71bf47f92",
+"identifier":
+"RRID:SCR_017571",
+"name":
+"DANDI API",
+"schemaKey":
+"Software",
+"version":
+"0.1.0"
+}
+]
+},
 "relatedResource":
 [],
 "schemaKey":
@@ -206,7 +236,7 @@
 ]
 },
 "modified":
-"2025-03-04T03:00:51.074122Z",
+"2025-03-04T03:04:54.481314Z",
 "path":
 "sub-healthy-simulated-data/sub-healthy-simulated-data_ses-001_ecephys.nwb",
 "size":
