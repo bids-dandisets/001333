@@ -23,9 +23,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 11308400
-  numberOfFiles: 21
-  numberOfSubjects: 3
+  numberOfBytes: 28983392
+  numberOfFiles: 52
+  numberOfSubjects: 5
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
@@ -37,7 +37,7 @@ assetsSummary:
   - ElectrodeGroup
   - ProcessingModule
 citation: Biswas, Ananna (2025) Parkinson's Electrophysiological Signal Dataset (PESD)
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001333/draft
+  (Version 0.250327.2220) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001333/0.250327.2220
 contributor:
 - affiliation: []
   email: ananna314.bd@gmail.com
@@ -64,12 +64,13 @@ description: "The dataset contains electrophysiological signals from both health
   the cortex, STN, and thalamus.\n\nMore details can be found in our article named,
   “Preliminary Results of Neuromorphic Controller Design and a Parkinson's Disease
   Dataset Building for Closed-Loop Deep Brain Stimulation”, available at https://arxiv.org/abs/2407.17756"
-id: DANDI:001333/draft
+doi: 10.48324/dandi.001333/0.250327.2220
+id: DANDI:001333/0.250327.2220
 identifier: DANDI:001333
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001333/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001333/0.250327.2220/assets.yaml
 name: Parkinson's Electrophysiological Signal Dataset (PESD)
 publishedBy:
   endDate: '2025-03-27T22:20:53.652589+00:00'
@@ -86,5 +87,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-url: https://dandiarchive.org/dandiset/001333/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001333/0.250327.2220
+version: 0.250327.2220
