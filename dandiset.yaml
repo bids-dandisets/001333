@@ -47,7 +47,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2025-02-08T10:15:43.847350+00:00'
-datePublished: '2025-03-04T03:04:54.239611+00:00'
+datePublished: '2025-03-27T22:20:53.652589+00:00'
 description: "The dataset contains electrophysiological signals from both healthy
   and parkinsonian subjects. We generated two types of samples from each group. The
   parkinsonian signals show a relatively high power density at the beta frequency
@@ -72,13 +72,13 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001333/versions/draft/assets/
 name: Parkinson's Electrophysiological Signal Dataset (PESD)
 publishedBy:
-  endDate: '2025-03-04T03:04:54.239611+00:00'
-  id: urn:uuid:5061b24d-18bb-4a67-abd1-a5e9e80d3427
+  endDate: '2025-03-27T22:20:53.652589+00:00'
+  id: urn:uuid:ae476dfe-913c-4cfe-932b-8f1f99342dff
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2025-03-04T03:04:54.239611+00:00'
+  startDate: '2025-03-27T22:20:53.652589+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:6c5c6b93-a18c-4bac-8ff8-45e373f5709e
+  - id: urn:uuid:c92d6c4d-4458-424e-bbd3-3e84585e3190
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
