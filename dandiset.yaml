@@ -15,17 +15,17 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
   - name: signal filtering technique
-    schemaKey: MeasurementTechniqueType
-  - name: surgical technique
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 692579472
-  numberOfFiles: 1279
-  numberOfSubjects: 5
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 712286272
+  numberOfFiles: 1304
+  numberOfSubjects: 4
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
@@ -34,8 +34,8 @@ assetsSummary:
   variableMeasured:
   - ElectricalSeries
   - LFP
-  - ElectrodeGroup
   - ProcessingModule
+  - ElectrodeGroup
 citation: Biswas, Ananna (2025) Parkinson's Electrophysiological Signal Dataset (PESD)
   (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001333/draft
 contributor:
